@@ -1,6 +1,6 @@
 # A Simple Retrieval-Augmented Generation (RAG) System
 
-This project sample is a simple demo about using RAG and Large Language Models (LLM) like gpt
+This project sample is a simple demo about using RAG and Large Language Models (LLM) like gpt, want to know more about it, checkout [this](https://www.linkedin.com/pulse/brief-history-large-language-models-llm-feiyu-chen) simple explanation about LLMs.
 
 ## Features
 
